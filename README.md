@@ -18,8 +18,8 @@ pip install -r requirements.txt
 ---
 
 ## Technologies Used
-**yt-dlp** → Download YouTube audio
-**OpenAI Whisper** → Speech-to-text transcription
-**FAISS** → Vector database for chatbot retrieval
-**LangChain** → Chatbot implementation
-**gTTS (Google Text-to-Speech)** → Convert text to speech
+**yt-dlp** → Download YouTube audio  
+**OpenAI Whisper** → Speech-to-text transcription  
+**FAISS** → Vector database for chatbot retrieval  
+**LangChain** → Chatbot implementation  
+**gTTS (Google Text-to-Speech)** → Convert text to speech  
