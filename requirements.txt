@@ -1,0 +1,9 @@
+yt-dlp
+openai-whisper
+openai
+faiss-cpu
+sentence-transformers
+langchain
+gtts
+numpy
+json
